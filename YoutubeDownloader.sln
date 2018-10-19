@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube Downloader", "WpfApplication2\Youtube Downloader.csproj", "{02B26B44-9096-4382-8CBF-71184EFACAFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube Downloader App", "YoutubeDownloader\Youtube Downloader App.csproj", "{5AAC3F73-EDD1-4E8C-B56A-635153A98967}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02B26B44-9096-4382-8CBF-71184EFACAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B26B44-9096-4382-8CBF-71184EFACAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B26B44-9096-4382-8CBF-71184EFACAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AAC3F73-EDD1-4E8C-B56A-635153A98967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAC3F73-EDD1-4E8C-B56A-635153A98967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAC3F73-EDD1-4E8C-B56A-635153A98967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAC3F73-EDD1-4E8C-B56A-635153A98967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
