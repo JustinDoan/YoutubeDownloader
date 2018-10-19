@@ -84,7 +84,7 @@ namespace WpfApplication2
             string json = "";
             using (WebClient client = new WebClient())
             {
-                string apiKey = "AIzaSyBu-SrLfJ8LuQ_2v5ElOsAoDeVXYcZZnG8";
+                string apiKey = "";
                 json = client.DownloadString(@"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + id + "&key=" + apiKey);
 
             }
